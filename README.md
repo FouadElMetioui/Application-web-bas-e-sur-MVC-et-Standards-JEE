@@ -10,7 +10,7 @@ web développée doit respecter le patron de conception MVC.*
 Eclipse, Maven, Tomcate, MySQL , Bootstrap , jstl ,
 
 ## Schéma de base de données
-étape il faut mettre en place un digramme de classe qui représente une gestion
+  mettre en place un digramme de classe qui représente une gestion
 des commandes, le digramme sera composé de quatre classes « Client, Commande, Produit,
 LignedeCommande ».
 <img width="715" alt="shemaBaseDeDonnes" src="https://user-images.githubusercontent.com/91638100/202867349-2c3a4b19-bcea-4563-9fb4-5a7ff13563c7.png">
